@@ -1,7 +1,7 @@
 ### Hey! I am Reinaldo Santana.
 
 <hr>
-<h5>Programming Languages</h5>
+<h5>Programming Languages and Markup Languages</h5>
 <p >
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
